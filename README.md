@@ -2,7 +2,7 @@
 
 This is my personal website. It's not good but it's my first website.
 
-## Features
+## Futures
 
 - [ ] Add a blog
 - [ ] Typography
@@ -17,3 +17,4 @@ This is my personal website. It's not good but it's my first website.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
