@@ -5,8 +5,8 @@ This is my personal website. It's not good but it's my first website.
 ## Futures
 
 - [ ] Add a blog
-- [ ] Typography
-- [ ] Add my projects
+- [x] Typography
+- [x] Add my projects
 
 ## How to use
 
@@ -17,4 +17,5 @@ This is my personal website. It's not good but it's my first website.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
