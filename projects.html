@@ -40,28 +40,29 @@
                     <p class="proj-desc">恭喜发财的刘德华</p>
                     <a href="https://jianghong5.github.io/melt-leehom/index.html">前往</a>
                 </div>
-                <script>
-                    let gxnfc = document.getElementById("gongxinifacai");
-                    let month = new Date().getMonth() + 1;
-                    // function get_spring_festival(year) {
-                    //     var spring_festival = Lunar.fromYmd(year, 1, 1);
-                    //     var spr_fes_solar = spring_festival.getSolar();
-                    //     return new Date(spr_fes_solar.getYear(), spr_fes_solar.getMonth() - 1, spr_fes_solar.getDay());
-                    // }
-    
-                    // function get_lantern_festival(year) {
-                    //     var lantern_festival = Lunar.fromYmd(year, 1, 15);
-                    //     var lan_fes_solar = lantern_festival.getSolar();
-                    //     return new Date(lan_fes_solar.getYear(), lan_fes_solar.getMonth() - 1, lan_fes_solar.getDay() + 1);
-                    // }
-                    if (month < 1 || month > 3) {
-                        
-                    }
-                </script>
             </div>
+            <script>
+                let gxnfc = document.getElementById("gongxinifacai");
+                let month = new Date().getMonth() + 1;
+                // function get_spring_festival(year) {
+                //     var spring_festival = Lunar.fromYmd(year, 1, 1);
+                //     var spr_fes_solar = spring_festival.getSolar();
+                //     return new Date(spr_fes_solar.getYear(), spr_fes_solar.getMonth() - 1, spr_fes_solar.getDay());
+                // }
+
+                // function get_lantern_festival(year) {
+                //     var lantern_festival = Lunar.fromYmd(year, 1, 15);
+                //     var lan_fes_solar = lantern_festival.getSolar();
+                //     return new Date(lan_fes_solar.getYear(), lan_fes_solar.getMonth() - 1, lan_fes_solar.getDay() + 1);
+                // }
+                if (month < 1 || month > 3) {
+                    gxnfc.style.display = "none";
+                }
+            </script>
         </div>
     </body>
 </html>
+
 
 
 
