@@ -4,7 +4,7 @@ This is my personal website. It's not good but it's my first website.
 
 ## Futures
 
-- [ ] Add a blog
+- [x] Add a blog
 - [x] Typography
 - [x] Add my projects
 
